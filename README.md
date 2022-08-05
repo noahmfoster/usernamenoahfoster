@@ -1,5 +1,4 @@
-I'm Noah Foster, an undergraduate at Brown University studying applied and pure mathematics with a passion for computational and theoretical statistics. 
-My email can be found by running the following Brainfuck code:
+I'm Noah Foster, an undergraduate at Brown University Class of 2024 majoring in Applied Math (BS) and Pure Math (BS). My interests are in Statistics (theoretical, applied, practical and impractical), Machine Learning (mostly theoretical or impractical). My email can be found by running the following Brainfuck code:
 ++[++>+<]-----[+>---<]>--.
 +.
 <----[+>---<]>--.
